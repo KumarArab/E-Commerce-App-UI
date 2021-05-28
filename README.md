@@ -1,6 +1,6 @@
 # e-Commerce  App - Flutter UI
 
-## [Watch it on YouTube](https://www.youtube.com/watch?v=By57508mXnc&t=38s)
+## [Watch it on YouTube](https://youtu.be/3ZCCG1Qcd6I)
 
 **Packages we are using:**
 
